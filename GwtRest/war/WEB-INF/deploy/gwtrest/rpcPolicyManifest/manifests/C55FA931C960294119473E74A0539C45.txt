@@ -1,0 +1,2 @@
+serviceClass: com.bsedg.gwtrest.client.GreetingService
+path: 63B9C13F8286117A5FCA4296C4462444.gwt.rpc
