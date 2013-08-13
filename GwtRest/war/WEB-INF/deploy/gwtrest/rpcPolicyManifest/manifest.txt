@@ -1,2 +1,3 @@
 # Module gwtrest
 # RPC service class, partial path of RPC policy file
+com.bsedg.gwtrest.client.GreetingService, 63B9C13F8286117A5FCA4296C4462444.gwt.rpc
